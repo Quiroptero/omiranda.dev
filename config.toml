@@ -20,7 +20,7 @@ enableGitInfo = true
 # Author config
 [author]
   name = "Osvaldo Miranda"
-  email = "contact@omiranda.dev"
+  email = "contacto@omiranda.dev"
   link = "https://omiranda.dev"
 
 languageCode = "en"
@@ -53,7 +53,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   # Author config
   [[params.author]]
     name = "Osvaldo Miranda"
-    email = "hola@omiranda.dev"
+    email = "contacto@omiranda.dev"
     link = "https://omiranda.dev"
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
