@@ -1,0 +1,4 @@
+main:
+  - name: "about"
+    weight: 1
+    pageRef: "/about"

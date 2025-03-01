@@ -1,0 +1,23 @@
+disqus:
+  disable: true
+googleAnalytics:
+  disable: true
+  respectDoNotTrack: true
+instagram:
+  disable: true
+  simple: true
+twitter:
+  disable: true
+  enableDNT: true
+  simple: true
+vimeo:
+  disable: true
+  enableDNT: true
+  simple: true
+x:
+  disable: true
+  enableDNT: true
+  simple: true
+youTube:
+  disable: true
+  privacyEnhanced: true

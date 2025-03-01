@@ -1,0 +1,20 @@
+# top level, global parameters that do not need a dedicated config file
+baseURL: "https://www.omiranda.dev"
+defaultContentLanguage: "en"
+timeZone: "America/Mexico_City"
+title: "The Workbench in the Cave"
+author: "Osvaldo Miranda"
+copyright: "© [Osvaldo Miranda](https://osvaldomiranda.me) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+
+# git
+enableGitInfo: true
+
+# add content sections to main menu
+sectionPagesMenu: "main"
+
+# how are the pages being classified
+taxonomies:
+    tag: "tags"
+
+permalinks:
+  posts: ":year/:month/:slug"

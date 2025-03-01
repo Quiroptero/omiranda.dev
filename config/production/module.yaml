@@ -1,0 +1,5 @@
+imports:
+  # shortcodes
+  path: "github.com/Quiroptero/hugo-shortcodes"
+  # theme
+  path: "github.com/joeroe/risotto"

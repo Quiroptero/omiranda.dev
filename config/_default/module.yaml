@@ -1,0 +1,3 @@
+imports:
+  # shortcodes
+  path: "github.com/Quiroptero/hugo-shortcodes"

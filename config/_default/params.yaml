@@ -1,0 +1,16 @@
+# for more palettes check out https://tinted-theming.github.io/tinted-gallery/
+theme:
+  palette: "tarot"
+
+about:
+  description: "Learning in dark mode"
+  logo: ⌨️
+  title: "$ workbench"
+
+socialLinks:
+  - icon: "fa-brands fa-github"
+    title: "GitHub"
+    url: "https://github.com/quiroptero"
+  - icon: "fa-solid fa-envelope"
+    title: "Email"
+    url: "mailto:contacto@omiranda.dev"

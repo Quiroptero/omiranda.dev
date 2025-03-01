@@ -1,0 +1,5 @@
+# add toc: true to content frontmatter to enable
+tableOfContents:
+  startLevel: 2
+  endLevel: 3
+  ordered: true
